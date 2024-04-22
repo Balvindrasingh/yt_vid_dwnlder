@@ -11,7 +11,7 @@ Installation
 Clone the repository:
 
 //Copy code
-git clone https://github.com/yourusername/youtube-downloader.git
+git clone https://github.com/Balvindrasingh/yt_vid_dwnlder
 Install the required pytube library:
 
 //Copy code
